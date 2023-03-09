@@ -17,3 +17,9 @@ declare module "*.module.css" {
      */
     export default classes;
 }
+
+declare module "*.png";
+declare module "*.svg";
+declare module "*.gif";
+declare module "*.jpg";
+declare module "*.jepg";
